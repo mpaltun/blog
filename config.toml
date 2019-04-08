@@ -1,0 +1,9 @@
+baseURL = "https://mpaltun.github.io"
+languageCode = "en-us"
+title = "My Fancy Blog"
+theme = "basics"
+
+
+[params]
+    author = "Mustafa Paltun"
+    github = "mpaltun"
