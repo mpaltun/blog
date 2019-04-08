@@ -14,4 +14,4 @@ Some examples:
 
 - Nginx generates etag header using `hex(last_modified) + "-" + hex(content_length)`
 
-- Netflix is using *m4.large* (8 GB RAM) instances for their Zuul push servers and they are able to handle 84k comfortably on a single server.
+- Netflix is using *m4.large* (8 GB RAM) instances for their Zuul push servers and they are able to handle 84k connections comfortably on a single server.
